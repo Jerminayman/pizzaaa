@@ -12,5 +12,7 @@ namespace pizzaaa.Models
         public int Tax;
         public int DeliveryFee;
         public int TotalReciept;
+        public string Total;
+    
     }
 }
