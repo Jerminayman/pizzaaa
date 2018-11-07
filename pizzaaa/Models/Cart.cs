@@ -5,9 +5,7 @@ using System.Threading.Tasks;
 
 namespace pizzaaa.Models
 {
-    public class address
+    public class Cart
     {
-        public string street;
-        public string department;
     }
 }
